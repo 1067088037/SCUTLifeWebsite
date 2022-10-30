@@ -3,13 +3,46 @@ export default {
   title: 'SCUT.life',
   description: '好的大学 没有围墙',
   themeConfig: {
-    nav: nav()
+    nav: nav(),
+    sidebar: {
+      '/docs/': docsGuide(),
+    },
+    footer: footer()
   }
 }
 
 function nav() {
   return [
-    {text: 'Guide', link: '/guide'},
-    {text: 'Configs', link: '/configs'},
+    {text: '主页', link: 'index'},
+    {text: '文档', link: '/docs/getting-started', activeMatch: '/config/'},
   ]
+}
+
+function docsGuide() {
+  return [
+    {
+      text: '简介',
+      collapsible: false,
+      items: [
+        {text: '快速开始', link: '/docs/getting-started'},
+      ]
+    },
+    {
+      text: '使用说明',
+      collapsible: false,
+      items: [
+        {text: 'Windows', link: '/docs/usage-windows'},
+        {text: 'Linux', link: '/docs/usage-linux'},
+        {text: 'Android', link: '/docs/usage-android'},
+        {text: 'iOS', link: '/docs/usage-ios'},
+      ]
+    }
+  ]
+}
+
+function footer() {
+  return {
+    message: '好的大学 没有围墙',
+    copyright: 'Copyright © 2022 SCUT.life'
+  }
 }

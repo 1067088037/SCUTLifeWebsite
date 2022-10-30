@@ -6,12 +6,12 @@ titleTemplate: 好的大学 没有围墙
 
 hero:
   name: SCUT.life
-  text: 好的大学没有围墙
+  text: 好的大学 没有围墙
   tagline: 拥有自由才是 SCUTer 本应有的 Life
   actions:
     - theme: brand
       text: 开始使用
-      link: /guide/getting-started
+      link: /docs/getting-started
     - theme: alt
       text: 介绍视频
       link: https://github.com/vuejs/vitepress
