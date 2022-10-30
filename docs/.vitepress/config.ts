@@ -14,8 +14,8 @@ export default {
 function nav() {
   return [
     {text: '主页', link: '/'},
-    {text: '文档', link: '/docs/getting-started', activeMatch: '/docs/'},
-    {text: '下载', link: '/download/', activeMatch: '/docs/'},
+    {text: '文档', link: '/docs/getting-started', activeMatch: '/docs'},
+    {text: '下载', link: '/download/', activeMatch: '/download'},
   ]
 }
 
