@@ -38,7 +38,15 @@ function docsSidebar() {
         {text: 'Android', link: '/docs/usage-android'},
         {text: 'iOS', link: '/docs/usage-ios'},
       ]
-    }
+    },
+    {
+      text: '高级篇',
+      collapsible: false,
+      items: [
+        {text: '实现原理', link: '/docs/implementation-theory'},
+        {text: '私有化部署', link: '/docs/privatization-deployment'},
+      ]
+    },
   ]
 }
 

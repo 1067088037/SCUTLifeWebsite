@@ -14,6 +14,8 @@
 
 - Android
 
+- iOS
+
 [CA CRT 证书](https://download.scut.life/scut.edu.cn_ca.crt)
 
 ### CER 格式
@@ -22,16 +24,20 @@
 
 [CA CER 证书](https://download.scut.life/scut.edu.cn_ca.cer)
 
-## Windows
+## 代理软件
+
+### Windows
 
 [Clash.for.Windows.Setup.0.20.6.exe](https://download.scut.life/Clash.for.Windows.Setup.0.20.6.exe)
 
-## Linux
+### Linux
 
 [clash-linux-amd64-v3-v1.11.8.gz](https://download.scut.life/clash-linux-amd64-v3-v1.11.8.gz)
 
-## Android
+### Android
 
 [Clash For Android 2.5.9 Premium](https://download.scut.life/cfa-2.5.9-premium-universal-release.apk)
 
-## iOS
+### iOS
+
+请使用美区 AppID 从 App Store 下载 ShadowRocket
