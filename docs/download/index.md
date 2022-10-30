@@ -10,7 +10,7 @@
 
 ## CA 证书
 
-[scut.edu.cn CA 证书](https://scut.life/download/scut.edu.cn_ca.crt)
+[scut.edu.cn CA 证书](https://download.scut.life/scut.edu.cn_ca.crt)
 
 ## Windows
 
@@ -18,6 +18,6 @@
 
 ## Android
 
-[Clash For Android 2.5.9 Premium](https://scut.life/download/cfa-2.5.9-premium-universal-release.apk)
+[Clash For Android 2.5.9 Premium](https://download.scut.life/cfa-2.5.9-premium-universal-release.apk)
 
 ## iOS
