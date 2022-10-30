@@ -5,7 +5,7 @@ export default {
   themeConfig: {
     nav: nav(),
     sidebar: {
-      '/docs/': docsGuide(),
+      '/docs/': docsSidebar(),
     },
     footer: footer()
   }
@@ -13,12 +13,13 @@ export default {
 
 function nav() {
   return [
-    {text: '主页', link: 'index'},
-    {text: '文档', link: '/docs/getting-started', activeMatch: '/config/'},
+    {text: '主页', link: '/'},
+    {text: '文档', link: '/docs/getting-started', activeMatch: '/docs/'},
+    {text: '下载', link: '/download/', activeMatch: '/docs/'},
   ]
 }
 
-function docsGuide() {
+function docsSidebar() {
   return [
     {
       text: '简介',

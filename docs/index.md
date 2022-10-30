@@ -1,8 +1,7 @@
 ---
 layout: home
 
-title: SCUT.life
-titleTemplate: 好的大学 没有围墙
+title: 主页
 
 hero:
   name: SCUT.life
@@ -13,8 +12,7 @@ hero:
       text: 开始使用
       link: /docs/getting-started
     - theme: alt
-      text: 介绍视频
-      link: https://github.com/vuejs/vitepress
+      text: 视频敬请期待
 
 features:
   - title: 高度真实
