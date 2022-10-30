@@ -26,6 +26,7 @@ function docsSidebar() {
       collapsible: false,
       items: [
         {text: '快速开始', link: '/docs/getting-started'},
+        {text: '产品优势', link: '/docs/advantages'},
       ]
     },
     {
