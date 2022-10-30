@@ -28,6 +28,8 @@
 
 ## Linux
 
+[clash-linux-amd64-v3-v1.11.8.gz](https://download.scut.life/clash-linux-amd64-v3-v1.11.8.gz)
+
 ## Android
 
 [Clash For Android 2.5.9 Premium](https://download.scut.life/cfa-2.5.9-premium-universal-release.apk)
