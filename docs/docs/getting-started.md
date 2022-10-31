@@ -19,7 +19,7 @@ CA 证书已于 2022年10月31日 19:00 更新，在此之前下载的用户请�
 - [Windows](/docs/usage-windows)
 - [Linux](/docs/usage-linux)
 - [Android](/docs/usage-android)
-- [iOS](/docs/usage-ios)
+- [iOS / iPadOS](/docs/usage-ios-ipados)
 
 ## 概况性说明
 

@@ -10,4 +10,4 @@
 
 ## 跨平台支持
 
-任何支持 VMESS 协议的代理软件均可使用，包括但不限于 V2Ray、Clash、Xray、ShadowRocket，无论 Windows、Linux、Android 都能使用。
+任何支持 VMESS 协议的代理软件均可使用，包括但不限于 V2Ray、Clash、Xray、ShadowRocket，无论 Windows、Linux、Android、iOS、iPadOS 都能使用。
