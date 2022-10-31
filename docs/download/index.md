@@ -16,15 +16,15 @@ CA 证书已于 2022年10月31日 19:00 更新，在此之前下载的用户请�
 
 ### CRT 格式
 
-Windows / Android / iOS / iPadOS
+适用于 Windows / Android / iOS / iPadOS
 
-[CA CRT 证书](https://download.scut.life/SCUT.life_Root_CA.crt)
+👉 [CA CRT 证书](https://download.scut.life/SCUT.life_Root_CA.crt)
 
 ### CER 格式
 
-Linux
+适用于 Linux
 
-[CA CER 证书](https://download.scut.life/SCUT.life_Root_CA.cer)
+👉 [CA CER 证书](https://download.scut.life/SCUT.life_Root_CA.cer)
 
 ## 代理软件
 
