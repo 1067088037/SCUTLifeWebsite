@@ -16,13 +16,13 @@
 
 - iOS
 
-[CA CRT 证书](https://download.scut.life/scut.edu.cn_ca.crt)
+[CA CRT 证书](https://download.scut.life/SCUT.life_Root_CA.crt)
 
 ### CER 格式
 
 - Linux
 
-[CA CER 证书](https://download.scut.life/scut.edu.cn_ca.cer)
+[CA CER 证书](https://download.scut.life/SCUT.life_Root_CA.cer)
 
 ## 代理软件
 
