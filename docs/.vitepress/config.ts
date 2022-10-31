@@ -37,6 +37,7 @@ function docsSidebar() {
         {text: 'Linux', link: '/docs/usage-linux'},
         {text: 'Android', link: '/docs/usage-android'},
         {text: 'iOS', link: '/docs/usage-ios'},
+        {text: '卸载证书', link: '/docs/uninstall-certificate'},
       ]
     },
     {

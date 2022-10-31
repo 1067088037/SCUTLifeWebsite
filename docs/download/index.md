@@ -2,29 +2,31 @@
 
 您可以浏览本页面并下载您需要的软件或证书。
 
-::: warning 警告
-请不要使用以下软件连接国际互联网，否则后果自负。本站提供的代理均无法访问境外网站，也不是为了访问境外网站而设计的。本站仅通过访问广州地区服务器的代理。
-:::
-
 ## CA 证书
+
+::: tip 注意
+
+CA 证书已于 2022年10月31日 19:00 更新，在此之前下载的用户请重新下载新的证书。
+
+:::
 
 ### CRT 格式
 
-- Windows
-
-- Android
-
-- iOS
+Windows / Android / iOS
 
 [CA CRT 证书](https://download.scut.life/SCUT.life_Root_CA.crt)
 
 ### CER 格式
 
-- Linux
+Linux
 
 [CA CER 证书](https://download.scut.life/SCUT.life_Root_CA.cer)
 
 ## 代理软件
+
+::: warning 警告
+请不要使用以下软件连接国际互联网，否则后果自负。本站提供的代理均无法访问境外网站，也不是为了访问境外网站而设计的。本站仅通过访问广州地区服务器的代理。
+:::
 
 ### Windows
 
