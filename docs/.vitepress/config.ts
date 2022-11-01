@@ -8,7 +8,6 @@ export default {
       '/docs/': docsSidebar(),
     },
     footer: footer(),
-    logo: './assets/logo-400px.png'
   }
 }
 
