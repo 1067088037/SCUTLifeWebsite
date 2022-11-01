@@ -7,7 +7,8 @@ export default {
     sidebar: {
       '/docs/': docsSidebar(),
     },
-    footer: footer()
+    footer: footer(),
+    logo: './assets/logo-400px.png'
   }
 }
 
