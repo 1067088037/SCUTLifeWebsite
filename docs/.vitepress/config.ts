@@ -16,6 +16,7 @@ function nav() {
     {text: '主页', link: '/'},
     {text: '文档', link: '/docs/getting-started', activeMatch: '/docs'},
     {text: '下载', link: '/download/', activeMatch: '/download'},
+    {text: '关于', link: '/about/', activeMatch: '/about'},
   ]
 }
 
